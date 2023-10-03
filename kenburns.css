@@ -1,0 +1,8 @@
+/* This class may be added to exisiting classes where background-images are declared 
+as a 'combo class' and still achieve the same effect */
+
+.kenburns {
+    background-position: center center;
+    background-size: 100% 100%;
+    transition: background-size 0.2s;
+  }
